@@ -5,7 +5,7 @@
     "version":"1.0.0",
     "url":"url-here",
     "img-url":"image-url",
-    "desc":"ChromaFlow is an advanced fluid color picker designed for Android — elegant, modern, and fully customizable.\n\nRight now, everything is implemented purely in Java code, without any external dependencies.\n\nThe goal is to build the smoothest and most realistic color picker experience for mobile, inspired by Material You and fluid motion design.\n\n✨ Features\n- Fluid Hue Ring with precision touch control\n- Saturation/Lightness panel with real-time preview\n- Rounded Alpha slider with checker transparency pattern\n- Modern UI with blur and glassmorphism effects\n- Written entirely in Java (no Kotlin, no third-party libs)\n- Built-in OnColorChangeListener for live and final color updates\n- Fully compatible with Sketchware Pro 7.0.0"
+    "desc":"https://raw.githubusercontent.com/SYTStudio/SWLibarys/refs/heads/main/ChromaFlow/description.txt"
   },
   {
     "dev":"SYTStudio",
