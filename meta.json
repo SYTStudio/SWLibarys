@@ -1,16 +1,16 @@
-{
-  "ChromaFlow": {
-    "name": "ChromaFlow",
-    "dev": "SYTStudio",
-    "desc": "Test description for example only.",
-    "version": "v1.0.0",
-    "url": "url-here"
+[
+  {
+    "dev":"SYTStudio",
+    "name":"ChromaFlow",
+    "version":"1.0.0",
+    "url":"url-here",
+    "desc":"Test description for example only."
   },
-  "EasySP": {
-    "name": "EasySP",
-    "dev": "SYTStudio",
-    "desc": "Test description for example only.",
-    "version": "v1.0.0",
-    "url": "url-here"
+  {
+    "dev":"SYTStudio",
+    "name":"EasySP",
+    "version":"1.0.0",
+    "url":"url-here",
+    "desc":"Test description for example only."
   }
-}
+]
