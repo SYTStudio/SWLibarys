@@ -4,7 +4,7 @@
     "name":"ChromaFlow",
     "version":"1.0.0",
     "url":"url-here",
-    "img-url":"image-url",
+    "img-url":"https://raw.githubusercontent.com/SYTStudio/SWLibarys/refs/heads/main/ChromaFlow/libary_icon.png",
     "desc":"https://raw.githubusercontent.com/SYTStudio/SWLibarys/refs/heads/main/ChromaFlow/description.txt"
   },
   {
@@ -12,7 +12,7 @@
     "name":"EasySP",
     "version":"1.0.0",
     "url":"url-here",
-    "img-url":"image-url",
-    "desc":"EasySP is a lightweight, open-source SharedPreferences wrapper for Android written entirely in Java. It simplifies data storage with one-line put() and get() methods, automatic initialization, and blazing-fast in-memory caching — all without context passing.\nBuilt for developers who want a smarter and safer way to handle app data, EasySP supports object serialization via Gson, optional AES-256 encryption, real-time key change listeners, and full JSON export/import for seamless backups or migrations.\nYou can store primitives, strings, or complex objects with a single call, while keeping everything fast, secure, and readable. The library is fully offline, requires no API, and integrates perfectly into both Android Studio and Sketchware Pro environments.\n\nKey Features:\n⚡ One-line get/put\n🔒 AES-256 Encryption\n🧠 Object Serialization (Gson)\n🪶 Lightweight & Offline\n🗂 JSON Export/Import\n🔄 Live Key Listeners\n⚙️ Memory Caching\n\nLicense (MIT):\nCopyright © 2025 SYTStudio\nPermission is hereby granted, free of charge, to use, copy, modify, and distribute this software without restriction, provided the above copyright notice and this permission are included in all copies. The software is provided “as is”, without warranty of any kind.\nMade with ❤️ by SYTStudio 🫡"
+    "img-url":"no-image",
+    "desc":""
   }
 ]
