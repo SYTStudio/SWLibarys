@@ -1,0 +1,20 @@
+EasySP is a lightweight, open-source SharedPreferences wrapper for Android written entirely in Java. It simplifies data storage with one-line put() and get() methods, automatic initialization, and blazing-fast in-memory caching — all without context passing.
+
+Built for developers who want a smarter and safer way to handle app data, EasySP supports object serialization via Gson, optional AES-256 encryption, real-time key change listeners, and full JSON export/import for seamless backups or migrations.
+
+You can store primitives, strings, or complex objects with a single call, while keeping everything fast, secure, and readable. The library is fully offline, requires no API, and integrates perfectly into both Android Studio and Sketchware Pro environments.
+
+Key Features:
+⚡ One-line get/put
+🔒 AES-256 Encryption
+🧠 Object Serialization (Gson)
+🪶 Lightweight & Offline
+🗂 JSON Export/Import
+🔄 Live Key Listeners
+⚙️ Memory Caching
+
+License (MIT):
+Copyright © 2025 SYTStudio
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute this software without restriction, provided the above copyright notice and this permission are included in all copies. The software is provided “as is”, without warranty of any kind.
+
+Made with ❤️ by SYTStudio 🫡
