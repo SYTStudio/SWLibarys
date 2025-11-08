@@ -1,0 +1,16 @@
+{
+  "ChromaFlow": {
+    "name": "ChromaFlow",
+    "dev": "SYTStudio",
+    "desc": "Test description for example only.",
+    "version": "v1.0.0",
+    "url": "url-here"
+  },
+  "EasySP": {
+    "name": "EasySP",
+    "dev": "SYTStudio",
+    "desc": "Test description for example only.",
+    "version": "v1.0.0",
+    "url": "url-here"
+  }
+}
